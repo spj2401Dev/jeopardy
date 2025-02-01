@@ -292,7 +292,8 @@
           {
             "value": 800,
             "clue": "This is DJ clue 4.2",
-            "solution": "What is the solution to DJ clue 4.2?"
+            "solution": "What is the solution to DJ clue 4.2?",
+            "dailyDouble": true
           },
           {
             "value": 1200,
